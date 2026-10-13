@@ -1,0 +1,6 @@
+id_venta,fecha,canal,producto,cantidad,precio_unitario
+V001,2026-10-01,Web,Televisor,1,450.00
+V002,2026-10-01,Tienda,Refrigeradora,1,620.00
+V003,2026-10-02,App,Audifonos,2,35.50
+V004,2026-10-02,Web,Audifonos,1,35.50
+V005,2026-10-03,Tienda,Televisor,1,450.00
